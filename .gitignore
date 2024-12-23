@@ -1,0 +1,57 @@
+# 빌드 디렉터리
+/build/
+/bin/
+/out/
+
+# 오브젝트 파일
+*.o
+*.obj
+*.lo
+*.lai
+*.slo
+
+# 바이너리 파일
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.pch
+*.rsp
+
+# Visual Studio 관련 파일
+*.suo
+*.user
+*.vcxproj.*
+*.aps
+*.log
+*.ipch
+*.opensdf
+*.ncb
+*.sdf
+*.opendb
+*.tlog
+*.lastbuildstate
+
+# Visual Studio 디렉터리
+.vs/
+
+# 로그 및 임시 파일
+*.log
+*.dat
+*.tmp
+*.temp
+
+# Windows 시스템 파일
+Thumbs.db
+desktop.ini
+
+# IDE 설정
+.vscode/
+*.DotSettings.user
