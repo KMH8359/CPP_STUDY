@@ -56,4 +56,4 @@ int main()
 	}
 }
 
-// jenkins webhook trigger test
+// jenkins scm polling trigger test
